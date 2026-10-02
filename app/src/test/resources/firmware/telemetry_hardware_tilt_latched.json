@@ -1,0 +1,1 @@
+{"time": 1.790796e+09, "moving": [false, false], "efficiency": 0.58878, "volts": [12.3, 9.9], "temp_c": [26, 21], "accel_g": 0.9739499, "mode": "stow", "plan": null, "latched": "base tilted 11.1 deg", "intent": "idle", "pos": [179.8242, -89.94141], "trips": ["tilt"], "tilt_deg": 47.35612, "sun": [306.1652, -22.61935], "beam": null, "imu_calibrated": false}
